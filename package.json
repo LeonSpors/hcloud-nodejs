@@ -1,0 +1,17 @@
+{
+  "name": "hcloud-nodejs",
+  "version": "0.1.9",
+  "description": "A Node.js module for Hetzner Cloud",
+  "main": "index.js",
+  "keywords": [
+    "hetzner",
+    "cloud",
+    "api",
+    "client"
+  ],
+  "author": "Leon Spors",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
