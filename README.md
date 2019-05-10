@@ -7,9 +7,9 @@ hcloud is a node.js package for [Hetzner cloud](https://www.hetzner.de/cloud) th
 
 * [Installation](#installation)
 * [Usage](#usage)
-  * [Getting started](#Getting started)
+  * [Getting started](#getting-started)
   * [Examples](#examples)
-  * [Full list of functions](#Full list of functions)
+  * [Full list of functions](#full-list-of-functions)
 * [License](#license)
 * [Author](#author)
 
