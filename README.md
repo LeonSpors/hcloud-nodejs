@@ -84,7 +84,7 @@ hcloud.server(920754).poweron((callback) => {
 
 ## License
 
-[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[GPL-3.0](LICENSE.md)
 
 ## Author
 
